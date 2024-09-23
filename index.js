@@ -32,6 +32,6 @@ app.post('/', async (req, res) => {
   return res.status(200).send()
 })
 
-app.listen(80, () => {
+app.listen(process.env.PORT, () => {
   console.log('Server is running on http://localhost:80')
 })
