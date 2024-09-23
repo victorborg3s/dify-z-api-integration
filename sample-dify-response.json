@@ -1,0 +1,40 @@
+{
+  "event": "message",
+  "task_id": "d4ede90f-aca9-41b7-9549-44e2db1bbcf0",
+  "id": "f7243181-6646-4ed2-aa41-6bae23b8074e",
+  "message_id": "f7243181-6646-4ed2-aa41-6bae23b8074e",
+  "conversation_id": "b36be8e1-c753-4fe3-861a-ecc33f21f5d6",
+  "mode": "chat",
+  "answer": "Olá! Eu sou o IOLzinho, um vendedor da IOL Rede de Provedores. Como você está? 😊 Posso ajudar você com algo específico? De que cidade você gostaria de contratar o plano de internet?",
+  "metadata": {
+    "retriever_resources": [
+      {
+        "position": 1,
+        "dataset_id": "25056387-0873-4816-a325-26e949bee876",
+        "dataset_name": "Info Chat bot test...",
+        "document_id": "69efef7f-a589-4a50-81fb-34812c836075",
+        "document_name": "Info Chat bot teste.pdf",
+        "data_source_type": "upload_file",
+        "segment_id": "838531ae-406e-49df-b969-c62cf19b11b4",
+        "retriever_from": "api",
+        "score": 0.1296643,
+        "content": "Descrição \nIOL FIBRA 100MB + SMART MINI 79,90 \nIOL FIBRA 200MB 80,00 \nIOL FIBRA 200MB + SMART PLUS 99,90 \nIOL FIBRA 300MB + GLOBOPLAY 99,90 \nIOL FIBRA 300MB GLOBOPLAY + PREMIERE 149,90 \nIOL FIBRA 300MB + PREMIERE 119,90 \nIOL FIBRA 300MB + TELECINE 99,90 \nIOL FIBRA 500MB 99,90 \nIOL FIBRA 500MB + SMART PLUS 119,90 \nIOL FIBRA 600MB + GLOBO PLAY 129,90 \nIOL FIBRA 600MB + PREMIERE 149,90 \nIOL FIBRA 600MB + TELECINE 129,90 \nIOL FIBRA 700MB 149,90 \nIOL FIBRA 700MB + SMART PLUS 169,90 \nHorario de atendimento escritório: 08:00 as 12:00 e 14:00 as 18:00 \nNúmero da Central de Atendimento: (75) 2102-3675 \nCidades atendidas \nCipó \nRibeira do Amparo \nOlindina \nColonia \nSatiro Dias \nMimoso \nCrisopolis \nItamira \nApora \nAcajutiba \nBaixa Grande \nRiacho da Guia \nInhambupe \nBaixio \nEntre Rios \nSubauma \nMassandupió"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 968,
+      "prompt_unit_price": "0.15",
+      "prompt_price_unit": "0.000001",
+      "prompt_price": "0.0001452",
+      "completion_tokens": 45,
+      "completion_unit_price": "0.60",
+      "completion_price_unit": "0.000001",
+      "completion_price": "0.0000270",
+      "total_tokens": 1013,
+      "total_price": "0.0001722",
+      "currency": "USD",
+      "latency": 0.861855624942109
+    }
+  },
+  "created_at": 1727041964
+}
